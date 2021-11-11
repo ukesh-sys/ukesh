@@ -2,6 +2,7 @@ html,
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
+  color: blue;
   font-weight: normal;
   -webkit-font-smoothing: antialiased;
   line-height: 1.5;
