@@ -25,7 +25,9 @@ body {
 		background-position: 0% 50%;
 	}
 }
-
+.boxed {
+  border: 7px solid black ;
+} 
 
 a {
   text-decoration: none;
